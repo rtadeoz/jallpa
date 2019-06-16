@@ -1,0 +1,18 @@
+https://www.shaileshjha.com/step-by-step-how-to-install-xampp-in-windows-and-fix-port-issues-for-apache-server/
+
+
+https://perezneira.wordpress.com/2016/12/01/xampp-cambiar-la-ubicacion-de-htdocs/
+
+SERVIDOR REMOTO:
+https://drive.google.com/file/d/0B1iIxRNTEtfMNHZYbWQ2TGVMOXM/view
+
+
+************************************************************************
+
+
+https://es.stackoverflow.com/questions/71278/configurar-xampp-red-lan
+
+
+http://maxvilla.net/2015/11/15/cmo-permitir-el-acceso-remoto-a-mysql-usando-xampp/
+
+
