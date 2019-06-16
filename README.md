@@ -4,7 +4,7 @@ Tu Barrio, Tu Historia
 
 PROBLEMATICA:
 
-+ + 1,000  Patrimonios Inmuebles - Lima
++ '+' 1,000  Patrimonios Inmuebles - Lima
 
 + 69% Viviendas Deterioradas - Centro Histórico
 
