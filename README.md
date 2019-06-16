@@ -4,6 +4,10 @@ Tu Barrio, Tu Historia
 
 PROBLEMATICA:
 
++ 1,000  Patrimonios Inmuebles - Lima
+69% Viviendas Deterioradas - Centro Histórico
+$ 970 Millones Costo Recuperación - Centro Histórico**
+
 Todos sabemos que el Perú es un país rico en cultura e historia.
 Sin embargo muchos de nuestros inmuebles históricos se encuentran en este estado.
 Solo en lima hay más de 1,000 Inmuebles que forman parte de nuestro patrimonio.
